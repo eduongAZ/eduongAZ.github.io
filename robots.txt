@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://eduongAZ.github.io/al-folio/sitemap.xml
+Sitemap: https://eduongaz.github.io/sitemap.xml
